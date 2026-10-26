@@ -1,10 +1,6 @@
-# pbg-martini
-
-### [**View Interactive Demo Report**](https://vivarium-collective.github.io/pbg-martini/)
+# viva-martini
 
 > Plasma membranes, micelles, protein-lipid complexes, and vesicles — 3D interactive viewers with energy-minimized Martini CG structures.
-
----
 
 Process-bigraph wrapper for the [Martini](https://cgmartini.nl) coarse-grained
 force field, using [vermouth/martinize2](https://github.com/marrink-lab/vermouth-martinize)
@@ -97,7 +93,7 @@ result = step.update({})
 
 ## Demo
 
-**[View the live interactive report](https://vivarium-collective.github.io/pbg-martini/)**
+**[View the live interactive report](https://vivarium-collective.github.io/viva-martini/)**
 
 Or generate it locally:
 
